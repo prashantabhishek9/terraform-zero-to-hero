@@ -104,7 +104,7 @@ By following these steps, you can securely store your Terraform state in S3 with
 
    Replace `"your-dynamodb-table"` with the desired DynamoDB table name.
 
-3. Configure the DynamoDB table name in your Terraform backend configuration, as shown in step 1.
+3. Configure the DynamoDB table name in your Terraform backend configuration as shown in step 1.
 
 By following these steps, you can securely store your Terraform state in S3 with state locking using DynamoDB, mitigating the disadvantages of storing sensitive information in version control systems and ensuring safe concurrent access to your infrastructure.
 ```
