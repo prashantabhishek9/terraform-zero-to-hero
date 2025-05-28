@@ -8,7 +8,7 @@ In this session, we'll introduce you to the fundamental concepts of Terraform an
 
 #### Installing Terraform on MacOS, Linux and Windows
 
-Get your hands dirty by installing Terraform on both MacOS, Linux and Windows. We'll guide you through the process with clear instructions and commands.
+Get your hands dirty by installing Terraform on both MacOS, Linux and Windows. We'll guide you through the process with clear instructions and commands..
 
 #### Setting up Terraform for AWS
 
